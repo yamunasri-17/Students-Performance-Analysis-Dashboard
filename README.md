@@ -1,8 +1,8 @@
-##📊 Student Performance Analysis Dashboard  
+## 📊 Student Performance Analysis Dashboard  
   
 ✨ An interactive and visually engaging dashboard designed to analyze student academic performance using data visualization techniques.  
   
- ##🚀 Features  
+ ## 🚀 Features  
 - 📈 Performance trend analysis  
 - 🎯 Subject-wise score insights  
 - 🧮 KPI metrics visualization  
